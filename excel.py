@@ -34,3 +34,5 @@ print(split)
 df["Part 1"]= split[0]
 df["Part 2"] = split[1]
 print(df)
+
+
