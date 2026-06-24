@@ -1,0 +1,11 @@
+Name,Age,Email,Salary,Department
+Alice Johnson,28.0,alice@email.com,55000,Engineering
+bob smith,32.0,BOB@EMAIL.COM,62000,marketing
+Carol White,25.0,carol@email.com,48000,Engineering
+David Brown,45.0,david@email.com,,Sales
+Alice Johnson,28.0,alice@email.com,55000,Engineering
+frank wilson,,frank@email.com,43000,HR
+Grace Moore,31.0,grace@email.com,58000,Marketing
+Henry Taylor,27.0,HENRY@EMAIL.COM,52000,Sales
+James Thomas,29.0,james@email.com,james_salary,Sales
+bob smith,32.0,BOB@EMAIL.COM,62000,marketing
