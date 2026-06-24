@@ -1,0 +1,11 @@
+{
+    "name": "A",
+    "courses": [
+        "A",
+        "B"
+    ],
+    "attendance": {
+        "A": 3,
+        "B": 1
+    }
+}
