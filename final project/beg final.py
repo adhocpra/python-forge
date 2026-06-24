@@ -16,7 +16,7 @@ def add_student():
 
 #view students
 def view_students():
-    if not students:
+    if not students: #if the list is empty
         print("No student found.\n")
         return
     print("\nList of students:")
